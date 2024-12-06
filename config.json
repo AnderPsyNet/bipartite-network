@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Rizzoli, Silveira, de Falco, \u0026 Sarrica"
+  },
+  "text": {
+    "more": "Figure 4. Bipartite network analysis output of the example of application. (cf. Graph file in the supplementary material). The thickness of the arcedge is determined by their weight. The size of the node labels is proportional to the average degree. Each community is represented by a different colour and is defined by the modularity class. \n",
+    "intro": "",
+    "title": "Bipartite network analysis output of the example of application."
+  },
+  "legend": {
+    "edgeLabel": "Edge description",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Node description"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
